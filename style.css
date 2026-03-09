@@ -1,0 +1,22 @@
+body{background-color: lightskyblue;}
+
+p
+{color: whitesmoke;
+size: 2em}
+
+h1
+{color: whitesmoke;}
+
+h2
+{color: whitesmoke;}
+
+.special
+{color: whitesmoke;}
+
+div
+{background-color: darkslategrey;
+border: 4px darkslategrey solid;
+border-radius: 35px;
+width: 75%;
+height: 150px;}
+
